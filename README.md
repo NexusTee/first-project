@@ -14,7 +14,6 @@
 
 - GitHub: [@githubhandle](https://github.com/NexusTee)
 
-
 ## 🤝 Contributing
 thanks to microverse
 code partners
